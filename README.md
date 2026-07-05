@@ -83,23 +83,6 @@ The analysis provides insights into:
 These findings can help users better understand their financial habits and identify opportunities to improve budgeting and expense management.
 
 ---
-
-## 🚀 How to Run
-
-1. Clone the repository.
-2. Install the required libraries.
-
-```bash
-pip install -r requirements.txt
-```
-
-jupyter notebook
-```
-
-3. Run all cells sequentially.
-
----
-
 ## 🔮 Future Improvements
 
 * Automatic transaction categorization using Machine Learning.
